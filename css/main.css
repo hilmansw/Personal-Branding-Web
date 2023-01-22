@@ -2134,12 +2134,13 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .home-banner-area {
   background: #cfd7e2;
-  height: 600px;
+  
 }
 @media (min-width: 1200px) {
   .home-banner-area .fullscreen {
     padding-left: 140px;
     padding-right: 140px;
+    height: 600px;
   } 
 }
 @media (min-width: 992px) {
