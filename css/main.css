@@ -2137,15 +2137,23 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding-left: 120px;
   padding-right: 120px;
 }
-@media (max-width: 1024px) {
+@media (min-width: 1200px) {
   .home-banner-area .fullscreen {
     padding-left: 0px !important;
     padding-right: 0px !important;
   } 
 }
-@media (max-width: 769px) {
+@media (min-width: 992px) {
+  .home-banner-area .fullscreen {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+  } 
+}
+@media (min-width: 768px) {
   .home-banner-area .fullscreen {
     height: 600px !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
   } 
 }
   
