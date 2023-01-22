@@ -2137,13 +2137,13 @@ body.mobile-nav-active #mobile-nav-toggle {
   height: 600px;
 }
 @media (min-width: 1200px) {
-  .home-banner-area {
+  .home-banner-area .fullscreen {
     padding-left: 140px;
     padding-right: 140px;
   } 
 }
 @media (min-width: 992px) {
-  .home-banner-area {
+  .home-banner-area .fullscreen {
     padding-left: 140px;
     padding-right: 140px;
   } 
