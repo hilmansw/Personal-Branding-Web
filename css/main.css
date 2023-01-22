@@ -2192,7 +2192,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 .banner-img {
   text-align: right;
   position: relative;
-  left: 160px; }
+  left: 120px; }
   @media (max-width: 1480px) {
     .banner-img {
       left: 0px; } }
