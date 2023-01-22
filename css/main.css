@@ -2134,6 +2134,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .home-banner-area {
   background: #cfd7e2;
+  height: 600px;
 }
 @media (min-width: 1200px) {
   .home-banner-area {
@@ -2147,11 +2148,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     padding-right: 140px;
   } 
 }
-@media (min-width: 769px) {
-  .home-banner-area .fullscreen {
-    height: 600px !important;
-  } 
-}
+
   
 
 .banner-area {
