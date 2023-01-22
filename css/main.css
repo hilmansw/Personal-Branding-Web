@@ -2143,8 +2143,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 @media (min-width: 992px) {
   .home-banner-area {
-    padding-left: 0px !important;
-    padding-right: 0px !important;
+    padding-left: 140px;
+    padding-right: 140px;
   } 
 }
 @media (min-width: 769px) {
