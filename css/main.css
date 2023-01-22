@@ -2190,9 +2190,7 @@ body.mobile-nav-active #mobile-nav-toggle {
       color: #2F327D; }
 
 .banner-img {
-  text-align: right;
-  position: relative;
-  right: 0px; }
+  text-align: right;}
   @media (max-width: 1480px) {
     .banner-img {
       left: 0px; } }
