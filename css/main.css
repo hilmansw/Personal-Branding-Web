@@ -2139,7 +2139,10 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
   @media (max-width: 769px) {
     .home-banner-area .fullscreen {
-      height: 600px !important; } }
+      height: 600px !important;
+      padding-left: 0px !important;
+      padding-right: 0px !important;
+     } }
 
 .banner-area {
   background: #a3b5cf; }
