@@ -868,7 +868,7 @@ td, th {
       .primary-btn:before {
         padding: 8px 0; } }
   .primary-btn:hover {
-    background: #fff;
+    background: #cfd7e2;
     border: 1px solid #2F327D; }
     .primary-btn:hover:before {
       opacity: 0;
@@ -2593,7 +2593,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     .contact-area .primary-btn:hover {
       background: transparent; }
       .contact-area .primary-btn:hover span {
-        color: #fff; }
+        color: #cfd7e2; }
 
 .contact-box {
   text-align: center; }
