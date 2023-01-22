@@ -1874,6 +1874,10 @@ h1, h2, h3, h4, h5, h6 {
 .main-menu {
   padding-top: 20px; }
 
+.pad-home-banner-area {
+  padding-top: 24px;
+}
+
 #header {
   padding: 0px 0px 20px 0px;
   position: absolute;
