@@ -2150,10 +2150,9 @@ body.mobile-nav-active #mobile-nav-toggle {
   } 
 }
 
-  
-
 .banner-area {
-  background: #a3b5cf; }
+  background: #a3b5cf;
+}
 
 .banner-content {
   text-align: left; }
@@ -2206,6 +2205,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 .banner-img {
   text-align: right;
   position: relative;
+  margin-top: 24px;
   left: 64px;
 }
   @media (max-width: 1480px) {
