@@ -2134,8 +2134,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .home-banner-area {
   background: #cfd7e2;
-  margin-left: 160px;
-  margin-right: 160px;
+  padding-left: 160px;
+  padding-right: 160px;
 }
   @media (max-width: 769px) {
     .home-banner-area .fullscreen {
