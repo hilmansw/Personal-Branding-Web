@@ -2204,7 +2204,9 @@ body.mobile-nav-active #mobile-nav-toggle {
       color: #2F327D; }
 
 .banner-img {
-  text-align: right;}
+  text-align: right;
+  margin-right: -64px;
+}
   @media (max-width: 1480px) {
     .banner-img {
       left: 0px; } }
