@@ -2149,7 +2149,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     padding-right: 0px !important;
   } 
 }
-@media (min-width: 768px) {
+@media (min-width: 769px) {
   .home-banner-area .fullscreen {
     height: 600px !important;
   } 
