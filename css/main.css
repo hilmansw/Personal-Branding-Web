@@ -2139,8 +2139,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 @media (max-width: 1024px) {
   .home-banner-area .fullscreen {
-    padding-left: 120px;
-    padding-right: 120px;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
   } 
 }
 @media (max-width: 769px) {
