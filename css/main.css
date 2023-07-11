@@ -2683,7 +2683,7 @@ body.mobile-nav-active #mobile-nav-toggle {
       .about-content h1 {
         font-size: 35px; } }
   .about-content .box {
-    border: 2px solid #fff;
+    border: 2px solid #333;
     padding: 10px 18px;
     border-radius: 25px;
     display: inline-block; }
@@ -2691,7 +2691,7 @@ body.mobile-nav-active #mobile-nav-toggle {
       .about-content .box {
         padding: 7px 15px; } }
     .about-content .box a {
-      color: #fff;
+      color: #333;
       font-size: 15px;
       -webkit-transition: all 0.3s ease 0s;
       -moz-transition: all 0.3s ease 0s;
